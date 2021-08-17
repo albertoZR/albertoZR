@@ -1,8 +1,10 @@
 ### Hola 👋, Holaa mi nombre es Alberto
-#### Desarrollador web 
+#### Técnico en Computación 
+![Técnico en Computación ](j)
+
 Hola... Me encanta el Desarrollo Web ya que con el creamos una buena conexión con nuestros visitantes, encantado de analizar datos para la resolución de conflictos
 
-Habilidades: Git & GitHub
+Habilidades: Git & GitHub </br>[<img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' alt='Git' height='40'>](https://github.com/https://github.com/albertoZR)  
 
 - 🔭 Estoy trabajando en La creación de Sitios Web para mi marca personal 
 - 🌱 Estoy aprendiendo Desarrollo Web 
